@@ -49,6 +49,9 @@ It's a long plan. It may take you months. If you are familiar with a lot of this
     [C# MVC Q & A](http://www.c-sharpcorner.com/uploadfile/8ef97c/most-asked-asp-net-mvc-interview-questions-and-answers/)
   - You can also download this PDF from where you can find all the MVC interview questions
     [C# MVC Q & A PDF](http://www.dotnettricks.com/books/mvc/interview)
+- ### C# WCF Interview Questions
+  - This list of 50 WCF Interview questions and answers are very useful for interviews.
+    [C# WCF Interview Q & A](http://www.c-sharpcorner.com/UploadFile/8ef97c/wcf-interview-questions-and-answers/)
     
   
   
