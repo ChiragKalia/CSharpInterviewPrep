@@ -36,16 +36,20 @@ It's a long plan. It may take you months. If you are familiar with a lot of this
 - ### .NET Components
   - This link elegantly describes all the components in .NET framework -
     [23 Components of the .NET Framework](http://www.developerin.net/a/39-Intro-to-.Net-FrameWork/23-Components-of-.Net-Framework)
-  - This page has a large interview question set and it's very handy for interviews-
-    [C# Interview Questions And Answers](http://www.c-sharpcorner.com/UploadFile/8ef97c/C-Sharp-net-interview-questions-and-answers/)
+- ### ASP.NET & ASP.NET MVC Page Life Cycle
   - This link explains the ASP.NET Application and page life cycle-
-    [ASP.NET Application and page life cycle](https://www.codeproject.com/Articles/457647/Understanding-ASP-NET-Application-and-Page-Life-Cy)
+    [ASP.NET Life Cycle](https://www.codeproject.com/Articles/457647/Understanding-ASP-NET-Application-and-Page-Life-Cy)
   - This link describes C# MVC Life Cycle with a nice flowchart to remember-
     [C# MVC Application Life Cycle](http://www.dotnetinterviewquestions.in/article_explain-mvc-application-life-cycle_210.html)
+- ### C# Interview Questions
+  - This page has a large interview question set and it's very handy for interviews-
+    [C# Interview Questions And Answers](http://www.c-sharpcorner.com/UploadFile/8ef97c/C-Sharp-net-interview-questions-and-answers/)
+- ### C# MVC Interview Questions
   - Turn to this page for a nifty list of C# MVC Interview questions that'll help a lot during interviews-
     [C# MVC Q & A](http://www.c-sharpcorner.com/uploadfile/8ef97c/most-asked-asp-net-mvc-interview-questions-and-answers/)
   - You can also download this PDF from where you can find all the MVC interview questions
     [C# MVC Q & A PDF](http://www.dotnettricks.com/books/mvc/interview)
+    
   
   
   
