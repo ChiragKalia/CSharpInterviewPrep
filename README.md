@@ -32,10 +32,12 @@ It's not a long plan. It's just a list of interview relevant links that are usef
         - This is a nice book, It will give you a great handle on how CLR works and if you practice it a little
             you'll quickly get proficient. Understanding C# helps you understand how programs and memory work.
 - [ ] **Learn C# MVC**
+    - [ ] [C# MVC Tutorials(Video)](https://www.youtube.com/watch?v=-pzwRwYlXMw&list=PL6n9fhu94yhVm6S8I2xd6nYz2ZORd7X2v)
+        - This is a video playlist of 100 videos on C# MVC. The author goes into great depth to give the students a great insight into 			how C# MVC works
     - I have added C# MVC to the list of pre requisites because a lot of interviews demand user to know about C# MVC (If you don't know 		it then it's not a big issue unless the job you're applying to says so)
 
 - [ ] **Learn C# WCF(Not Mandatory)**
-	- [ ] [WCF Tutorials(Video)](https://www.youtube.com/watch?v=QmfPmqMk9Xs&list=PL6n9fhu94yhVxEyaRMaMN_-qnDdNVGsL1)
+	- [ ] [C# WCF Tutorials(Video)](https://www.youtube.com/watch?v=QmfPmqMk9Xs&list=PL6n9fhu94yhVxEyaRMaMN_-qnDdNVGsL1)
 		- These tutorials were the best I could find online. These videos provide a hands on experience creating WCF services.
 		You can learn WCF step by step by following these video lectures.
     - C# WCF's knowledge is not mandatory as a lot of people don't know about WCF. It's an added bonus if you want to prepare it too.
