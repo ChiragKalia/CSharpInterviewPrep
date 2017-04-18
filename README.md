@@ -68,7 +68,3 @@ It's not a long plan. It's just a list of interview relevant links that are usef
     [C# WCF Interview Q & A](http://www.c-sharpcorner.com/UploadFile/8ef97c/wcf-interview-questions-and-answers/)
 	
     
-  
-  
-  
-    
