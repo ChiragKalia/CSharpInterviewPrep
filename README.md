@@ -67,4 +67,3 @@ It's not a long plan. It's just a list of interview relevant links that are usef
   - This list of 50 WCF Interview questions and answers are very useful for interviews.
     [C# WCF Interview Q & A](http://www.c-sharpcorner.com/UploadFile/8ef97c/wcf-interview-questions-and-answers/)
 	
-    
