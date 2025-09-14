@@ -2,7 +2,7 @@
 > Hi All, In this repo I will add some links that will be my study topics to  prepare for .NET C# interviews in one week.
 
 It's not complete for now, There are a lot of topics I haven't covered. 
-*I wanted to let you guys know that I got hired by Landis&Gyr after brushing up my skills through these links*
+*I wanted to let you guys know that I got hired after brushing up my skills through these links*
 
 *Inspired from JWasham's coding-interview-university*
 ## What is it?
