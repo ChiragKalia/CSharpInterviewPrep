@@ -7,10 +7,10 @@ It's not complete for now, There are a lot of topics I haven't covered.
 *Inspired from JWasham's coding-interview-university*
 ## What is it?
 
-This is my week long(maybe more) study plan to get myself a decent job at a big companies(MNC's)
+This is my week long(maybe more) study plan to get myself a decent job.
 ![Coding at the whiteboard - from HBO's Silicon Valley](https://dng5l3qzreal6.cloudfront.net/2016/Aug/coding_board_small-1470866369118.jpg)
 
-This is meant for guys who feel like stagnated at their current job or they don't have much exposure or feel like their current job is not challenging anymore. I am also one of these guys and I feel like I'm stagnated currently. I aspire to join one of the big 4's one day.
+This is meant for guys who feel like stagnated at their current job or they don't have much exposure or feel like their current job is not challenging anymore.
 
 ---
 
